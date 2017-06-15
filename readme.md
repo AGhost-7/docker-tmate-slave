@@ -1,4 +1,4 @@
-Deploy tmate-slave (backend server used for tmate command line utility). easily using docker.
+Deploy tmate-slave (backend server used for tmate command line utility) easily using docker.
 
 ## Usage
 Example command:
