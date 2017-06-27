@@ -8,8 +8,6 @@ ENV TMATE_KEYS_DIR /keys
 
 ENV TMATE_PORT 2222
 
-ENV TMATE_HOST 0.0.0.0
-
 COPY ./entrypoint.sh /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
